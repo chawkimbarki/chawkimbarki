@@ -20,7 +20,7 @@ const chawkiMbarki = {
   pronouns: ["he", "him"],
   code: [HTML/CSS, JavaScript, React, Redux, Ruby on Rails, Semantic UI, Bootstrap, 
   Tailwind CSS, Material UI],
-  askMeAbout: ['League of legends', 'or any dragon name from skyrim'],
+  askMeAbout: ['League of legends', 'or any dragon name in skyrim'],
   challenge: "I am honing my JS skills and picking up Webpack",
   funFacts: ['I enjoy coding and working on new projects', '']
 }
