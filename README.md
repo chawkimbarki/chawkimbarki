@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Chawki!<br><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Chawki+Mbarki+;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+  <br><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
+</h1>
 <p align="center"><em>A remote Full-stack web developer ready for adventure</em></p>
 <p align="center">
   <a href="https://github.com/chawkimbarki">
